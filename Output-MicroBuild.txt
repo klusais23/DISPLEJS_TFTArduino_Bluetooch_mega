@@ -1,0 +1,6 @@
+﻿Compiling 'Arduino_Bluetooch_mega' for 'Arduino/Genuino Mega w/ ATmega2560 (Mega 2560)'
+Program size: 36,168 bytes (used 14% of a 253,952 byte maximum) (5.40 secs)
+Minimum Memory Usage: 983 bytes (12% of a 8192 byte maximum)
+ 
+Uploading 'Arduino_Bluetooch_mega' to 'Arduino/Genuino Mega w/ ATmega2560 (Mega 2560)' using 'COM6'
+	The upload process has finished.
